@@ -8,7 +8,7 @@ This project contains to a Power BI dashboard project focused on analyzing the D
 
 **Project Summary**:
 This project analyzes survey data on data professionals using Power BI.
-The data comes from a survey conducted by Alex Freberg (YouTube: Alex The Analyst).
+The data comes from a survey conducted by Alex Freberg.
 The goal is to explore trends and gain insights into the data professional landscape.
 
 **Key Findings**:
