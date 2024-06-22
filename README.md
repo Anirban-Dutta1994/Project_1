@@ -4,7 +4,7 @@ This is a Power Bi End to end project
 
 Hi, Everyone
 
-This project contains to a Power BI dashboard project focused on analyzing the Data Professional Survey.
+This project contains to a Power BI dashboard project focused on Analyzing the Data Professional Survey.
 
 **Project Summary**:
 This project analyzes survey data on data professionals using Power BI.
